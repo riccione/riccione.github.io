@@ -6,3 +6,27 @@ body {
     background-color: #FFF;
     font-size: 2em;
 }
+
+header {
+    margin: 5pt;
+}
+
+.example {
+    background-color: #eeeeeb;
+    margin: 10pt;
+    padding: 3pt;
+}
+
+table, td, th {
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+.align_center {
+    text-align: center;
+}
+
+th {
+    background-color: #C0D9D9;
+    font-style: bold;
+}
