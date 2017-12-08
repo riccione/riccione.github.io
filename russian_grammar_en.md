@@ -335,9 +335,9 @@ As I mentioned before the adjectives and the nouns must agree with each other in
 There are a lot of different pronouns: личные, возвратные, притяжательные, вопросительные, относительные, указательные, определительные, отрицательные, неопределенные. As a beginner, you don't need to know all of them. Right now pay attention only to personal (личные) and possessive (притяжательные) pronouns. Other types of pronouns are not important at the beginning.
 
 #### 1. Личные местоимения - Personal pronouns
-
 We use personal pronouns only in one case - as a subject of a sentence.
-
+| Russian | English |
+| -- | -- |
 |  я | I |
 |  ты | you |
 |  он/она/оно | he/she/it |
@@ -346,10 +346,9 @@ We use personal pronouns only in one case - as a subject of a sentence.
 |  они | they |
 
 #### 2. Притяжательные местоимения - Possessive pronouns
+The possessive pronouns must agree in gender, number, and case with a modified noun.
 
-                The possessive pronouns must agree in gender, number, and case with a modified noun.
-
-| Possessive | Personal |  |
+| Притяжательные | Личные | Possessive |
 | --- | --- | --- |
 |  мой |  я | my |
 |  твой |  ты | your |
@@ -360,9 +359,9 @@ We use personal pronouns only in one case - as a subject of a sentence.
 |  ваш |  вы | your |
 |  их |  они | their |
 
- Это мой город. - It is my town.<br>
- Это его машина. - It is his car.<br>
- Это мои деньги. - It is my money.<br>
+    Это мой город. - It is my town.
+    Это его машина. - It is his car.
+    Это мои деньги. - It is my money.
 
 #### The complete declensions of Russian possessive pronouns
 
@@ -427,37 +426,32 @@ We use personal pronouns only in one case - as a subject of a sentence.
 
 1. Each verb has two aspects: perfective and imperfective.
 
-2. You can find the both forms inside the dictionaries.
-                We use the perfective aspect to express the Perfect "ideas/tenses" in present, past and future.
-                I advise you to learn all forms by heart. It is not necessary to learn the rules how to form them now.
+2. You can find the both forms inside the dictionaries. We use the perfective aspect to express the Perfect "ideas/tenses" in present, past and future. I advise you to learn all forms by heart. It is not necessary to learn the rules how to form them now.
 
 3. If you want to form the perfective aspect there are several ways to do it.
 
-3.1. Usually the perfective aspect forms from the imperfective by adding a prefixation.
-                There are several prefixations that you can use for this:
+3.1. Usually the perfective aspect forms from the imperfective by adding a prefixation. There are several prefixations that you can use for this:
 
-* про-: думать (imperf) > продумать (perf) (to think > have thought)
-* по-:  думать (imperf) > подумать (perf) (to think > have thought)
-* при-:  думать (imperf) > придумать (perf) (to think > have thought)
-* на-: рисовать (imperf) > нарисовать (perf) (to draw > have drawn)
-* с-: делать (imperf) > сделать (perf) (to do > have done)
-* вы-: пить (imperf) > выпить (perf) (to drink > have drunk)
+    про-: думать (imperf) > продумать (perf) (to think > have thought)
+    по-:  думать (imperf) > подумать (perf) (to think > have thought)
+    при-:  думать (imperf) > придумать (perf) (to think > have thought)
+    на-: рисовать (imperf) > нарисовать (perf) (to draw > have drawn)
+    с-: делать (imperf) > сделать (perf) (to do > have done)
+    вы-: пить (imperf) > выпить (perf) (to drink > have drunk)
 
 3.2. Sometimes we change the suffix of the imperfective verb to make the perfective.
 
-* отвечать (imperf) > ответить (perf) (to answer > have answered)
+    отвечать (imperf) > ответить (perf) (to answer > have answered)
 
 3.3. In rare cases we use the different stem.
 
-* говорить (imperf) > сказать (perf) (to tell/say > have told/said>
+    говорить (imperf) > сказать (perf) (to tell/say > have told/said>
 
 [Table of contents](#contents-href)
 
 ## Past tense
 
-1. We use the Past tense (прошедщее время) when we talk about an action in the past (Past Simple),
-                an action which was happening at the time of speaking (Past continuous),
-                an action in the past has a connection with the present (Present perfect).
+1. We use the Past tense (прошедщее время) when we talk about an action in the past (Past Simple), an action which was happening at the time of speaking (Past continuous), an action in the past has a connection with the present (Present perfect).
 
 2. We form the Past tense by changing the ending of the verb to -л (remember about conjugation! and gender agreement!).
 
@@ -470,13 +464,12 @@ We use personal pronouns only in one case - as a subject of a sentence.
 |  вы ушли | you left |
 |  они ушли | they left |
 
-3. Exception: when infinitive has these endings: -чь, -ти, -нуть We do not use the suffix -л with singular masculine subjects to form the Past tense.
-            Just learn these verbs.
+3. Exception: when infinitive has these endings: -чь, -ти, -нуть We do not use the suffix -л with singular masculine subjects to form the Past tense. Just learn these verbs.
 
-3.1 For example:<br>
+3.1 For example:
 
-                беречь (i) - я берег (I cared)
-                печь (i) - я пёк (I baked)
+    беречь (i) - я берег (I cared)
+    печь (i) - я пёк (I baked)
 
 4. To create a negative form just add **не** (not) before the verb.
 
@@ -495,30 +488,32 @@ We use personal pronouns only in one case - as a subject of a sentence.
 
 1. We use the Future tense (будущее время) when we talk about a future action (Future Simple).
 
-2. There are two ways how we can speak about future. First one is quite simple and second needs to
-                introduce additional grammar topic (perfective and imperfective verbs/aspects).
+2. There are two ways how we can speak about future. First one is quite simple and second needs to introduce additional grammar topic (perfective and imperfective verbs/aspects).
 
-* 2.1. Easy way to create Future tense: add a verb быть (to be) before a main verb (infinitive). Don't forget about the conjugation of the verb быть.*
-* быть (to be) + verb (infinitive)
-* я буду читать - I will read
-* ты будешь читать - you will read
-* он/она/оно/Вы (formal) будет читать - he/she/it will read
-* мы будем читать - we will read
-* вы будете читать - you will read
-* они будет читать - they will read
-* * Actually here we use the imperfective form/aspect of the verb.
+* 2.1. Easy way to create Future tense: add a verb быть (to be) before a main verb (infinitive). Don't forget about the conjugation of the verb быть.
+**быть (to be) + verb (infinitive)**
+    я буду читать - I will read
+    ты будешь читать - you will read
+    он/она/оно/Вы (formal) будет читать - he/she/it will read
+    мы будем читать - we will read
+    вы будете читать - you will read
+    они будет читать - they will read
+
+    Actually here we use the imperfective form/aspect of the verb.
 
 * 2.2. Form the Future with a verb in a perfective form. Remember about the conjugation!
-* читать (infinitive) -> perfective forms: прочитать, почитать
-* я прочитаю - I will have read / will read
-* ты прочитаешь - you will have read / will read
-* он/она/оно/Вы (formal) прочитает - he/she/it will have read / will read
-* мы прочитаем - we will have read / will read
-* вы прочитаете - you will have read / will read
-* они прочитают - they will have read / will read
+**читать (infinitive) -> perfective forms: прочитать, почитать**
+    я прочитаю - I will have read / will read
+    ты прочитаешь - you will have read / will read
+    он/она/оно/Вы (formal) прочитает - he/she/it will have read / will read
+    мы прочитаем - we will have read / will read
+    вы прочитаете - you will have read / will read
+    они прочитают - they will have read / will read
 
 3. To create a negative form just add **не** (not) before the verb.
 
+| Easy way | With a perfective verb |
+| -- | -- |
 |  я не буду читать (I won't read) |  я не прочитаю (I won't have read) |
 |  ты не будешь читать (you won't read) |  ты не прочитаешь (you won't have read) |  |
 |  он/она/оно не будет читать (he/she/it won't read) |  он/она/оно не прочитает (he/she/it won't have read) |
@@ -534,57 +529,52 @@ We use personal pronouns only in one case - as a subject of a sentence.
 
 1.1. We use a comparative adjective to compare a person, object, action with another person, object etc.
 
-1.2. There are two ways to create a comparative adjective: a simple (простой) and a compound (составной).
-                They are almost equal, so you can use any of these methods.
+1.2. There are two ways to create a comparative adjective: a simple (простой) and a compound (составной). They are almost equal, so you can use any of these methods.
 
-1.3. Составной - сompound: it is quite easy to use it. We just add a word (более или менее) before the adjective.<br>
+1.3. Составной - сompound: it is quite easy to use it. We just add a word (более или менее) before the adjective.
 
-            **более (more) / менее (less) + прилагательное (adjective)**<br>
+**более (more) / менее (less) + прилагательное (adjective)**
 
- красивый закат > более красивый закат, менее красивый закат<br>
- большое озеро > более большое озеро, менее большое озеро<br>
+    красивый закат > более красивый закат, менее красивый закат
+    большое озеро > более большое озеро, менее большое озеро
 
-1.4. Простой - simple: in this case we add a new ending to a root of the adjective. Actually it is not ending, it is a suffix.
-                We choose a right suffix based on a gender of a noun.<br>
+1.4. Простой - simple: in this case we add a new ending to a root of the adjective. Actually it is not ending, it is a suffix. We choose a right suffix based on a gender of a noun.<br>
 
-                **прилагательное (adjective) + -ее (f), -ей (m), -е (f), -ше (n)**<br>
+**прилагательное (adjective) + -ее (f), -ей (m), -е (f), -ше (n)**
 
- красивый закат > красивей закат<br>
- тонкая ветка > тоньше ветка<br>
- крепкая веревка > крепче веревка<br>
- смешная девушка > смешнее девушка<br>
- большое озеро > больше озеро<br>
+    красивый закат > красивей закат
+    тонкая ветка > тоньше ветка
+    крепкая веревка > крепче веревка
+    смешная девушка > смешнее девушка
+    большое озеро > больше озеро
 
 #### 2. Превосходная степень прилагательного - Superlative adjectives
 
 2.1. We use a superlative adjective to compare more than two persons, objects, actions etc.
 
-2.2. There are two ways to create a surerlative adjective: a simple (простой) and a compound (составной).
-                    These ways are similar to create the comparative adjectives.
+2.2. There are two ways to create a surerlative adjective: a simple (простой) and a compound (составной). These ways are similar to create the comparative adjectives.
 
-2.3. Составной - сompound: the easiest method. We just add a word (самый, наиболее или наименее) before the adjective.<br>
+2.3. Составной - сompound: the easiest method. We just add a word (самый, наиболее или наименее) before the adjective.
 
-                **самый (most) / наиболее (most) / наименее (least)+ прилагательное (adjective)**<br>
+**самый (most) / наиболее (most) / наименее (least)+ прилагательное (adjective)**
 
- Она самая красивая. - She is the most beautiful woman.<br>
- Наиболее высокое здание в Европе - This is the highest building in Europe.<br>
+    Она самая красивая. - She is the most beautiful woman.
+    Наиболее высокое здание в Европе - This is the highest building in Europe.
 
-1.4. Простой - simple: in this case we add a new suffix to a root of the adjective.
-                    We should change the ending based on a gender, number and case of a noun.<br>
+1.4. Простой - simple: in this case we add a new suffix to a root of the adjective. We should change the ending based on a gender, number and case of a noun.
 
-                    **прилагательное (adjective) + -ейш- (-айш-) + ending**<br>
+**прилагательное (adjective) + -ейш- (-айш-) + ending**
 
- красивый закат > красивейший закат<br>
- тонкая ветка > тончайшая ветка<br>
- крепкая веревка > крепчайшая веревка<br>
- смешная девушка > смешнейшая девушка<br>
+    красивый закат > красивейший закат
+    тонкая ветка > тончайшая ветка
+    крепкая веревка > крепчайшая веревка
+    смешная девушка > смешнейшая девушка
 
 [Table of contents](#contents-href)
 
 ## Lesson 10: Cases
 
-1. We use the cases to show the role and function of the noun in the sentence. The case system exists in Latin,
-                Greek and German. The changing a word in cases and numbers is склонение.
+1. We use the cases to show the role and function of the noun in the sentence. The case system exists in Latin, Greek and German. The changing a word in cases and numbers is склонение.
 
 * There are six cases:
 * Именительный падеж (Nominative case)
@@ -594,16 +584,16 @@ We use personal pronouns only in one case - as a subject of a sentence.
 * Творительный падеж (Instrumental case)
 * Предложный падеж (Prepositional case)
 
-                Именительный: it is the basic, initial (dictionary) form of a word.<br>
+**1. Именительный:** it is the basic, initial (dictionary) form of a word.<br>
 
-                **Девушка** вошла в комнату. (The girl entered into a room.)
-                < Here the word девушка is in именительном падеже.<br>
+    **Девушка** вошла в комнату. (The girl entered into a room.)
+    < Here the word девушка is in именительном падеже.
 
-                **Ночь** холодная. (The night is cold).<br>
+    **Ночь** холодная. (The night is cold).
 
-                Родительный: shows that something belongs or refers to something (similar to "of" in English).<br>
+**2.Родительный:** shows that something belongs or refers to something (similar to "of" in English).
 
-                Эта машина **друга**. (This is a friend's car.)<br>
+    Эта машина **друга**. (This is a friend's car.)
 
 [Table of contents](#contents-href)
 
@@ -619,7 +609,7 @@ We use personal pronouns only in one case - as a subject of a sentence.
 | --- | --- |
 |  Я читаю (I read) |  Я читаю? (Do I read?) Ты читаешь? (Do you read?) Ты читаешь, не правда ли? (You read, do you?) Что ты читаешь? (What do you read?) Какую книгу ты будешь читать? (Which book are you going to read?) Когда ты читаешь? (When do you read?) Сколько книг ты читал в прошлом году? (How many books did you read last year?) |
 
-* 2. The list of interrogative words:
+2. The list of interrogative words:
 * Что - What
 * Какой - Which
 * Когда - When
