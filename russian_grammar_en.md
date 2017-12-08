@@ -15,19 +15,15 @@
 
 ## Overview
 
-The grammar of any language is a core. It is important to know the basic rules.
-            I am going to expand this part with each update.
-            There are few things that I would like to share with you about Russian language.
+The grammar of any language is a core. It is important to know the basic rules. I am going to expand this part with each update. There are few things that I would like to share with you about Russian language.
 
 * 1. In Russian we don't have any articles. It is obvious from a content what you mean.
 
-* 2. The verb to be (быть) is not very important. Usually we don't use it.<br>
+* 2. The verb to be (быть) is not very important. Usually we don't use it.
 
-              I am Antony. - Я Энтони.<br>
-
-              It is my car. - Это моя машина.<br>
-
-              Today is a nice day. - Сегодня хороший день.<br>
+            I am Antony. - Я Энтони.
+            It is my car. - Это моя машина.
+            Today is a nice day. - Сегодня хороший день.
 
 * 3. There are three genders in Russian: masculine, feminine, neuter.
 
@@ -37,19 +33,14 @@ The grammar of any language is a core. It is important to know the basic rules.
 
 * 6. There are cases. Probably it is the most difficult part of the grammar.
 
-* 7. The main purpose of any language learning is an art (or science) of the creation the sentences. In Russian
-                you can put the words (pronouns, nouns, adjectives and verbs) in various positions. Of course there are many rules
-                how to do it.
+* 7. The main purpose of any language learning is an art (or science) of the creation the sentences. In Russian you can put the words (pronouns, nouns, adjectives and verbs) in various positions. Of course there are many rules how to do it.
 
 [Table of contents](#contents-href)
 
 ## Lesson 1: Alphabit and pronunciation
 
-                   The alphabit is your start point to learn any language. There are 33 letters in the Russian alphabit. Some of them looks strange and sounds completely different from English language.
-                   In Russian we use the cyrillic letters. The cyrillic alphabit is phonetical. This is its main difference from the English.
-                   What does it mean? Actually, it is like an transcription. Just imagine that you take transciption rules and signs and convert
-                   them into the letters. In Russian if you know alphabit you can read and pronunce almost everytime correct (there are some additional
-                   rules, but they aren't important now). So, the letter in Russian has only one corresponded pronunciation. One letter is one sound.
+The alphabit is your start point to learn any language. There are 33 letters in the Russian alphabit. Some of them looks strange and sounds completely different from English language.
+In Russian we use the cyrillic letters. The cyrillic alphabit is phonetical. This is its main difference from the English. What does it mean? Actually, it is like an transcription. Just imagine that you take transciption rules and signs and convert them into the letters. In Russian if you know alphabit you can read and pronunce almost everytime correct (there are some additional rules, but they aren't important now). So, the letter in Russian has only one corresponded pronunciation. One letter is one sound.
 
 #### Pronunciation
 
@@ -96,22 +87,19 @@ The grammar of any language is a core. It is important to know the basic rules.
                        and read), news, math books, something about your job. The idea of the first lesson is to study how to read and pronunce.
                        I am sure it is a critical skill in any language learning!
 
-                       The previous part was very boring. I know it by myself. So I am going to give you some useful daily words and phrases
-                       those you can use right now in your real life. Is it exciting?
+The previous part was very boring. I know it by myself. So I am going to give you some useful daily words and phrases those you can use right now in your real life. Is it exciting?
 
 #### The daily words
-
+| Russian | English |
 |  Привет [privet] | Hi |
 |  Здравствуйте [zdravstvuyte] | Hello (formal) |
 |  Доброе утро [dobroe utro] | Good morning |
 |  Добрый вечер [dobreay vecher] | Good evening |
 |  Доброй ночи [dobrоy nochi] | Good night |
 |  Спасибо [spasibo] | Thank you |
-|  Меня зовут ..name.. [menya zovut ...] / Я ..your name.. [ya ...] | My name is ... / I am ... |
 |  Я из Германии [ya iz germanii] | I am from Germany |
 
-                       Homework: try to read the short story written by the famous Russian writer A. Chehov. The goal of this task is to start
-                       reading and pronunce as I mentioned before. Don't think to much about the words and their meaning. It is not our goal for today.
+Homework: try to read the short story written by the famous Russian writer A. Chehov. The goal of this task is to start reading and pronunce as I mentioned before. Don't think to much about the words and their meaning. It is not our goal for today.
 
 **ТОЛСТЫЙ И ТОНКИЙ**<br>
  На вокзале Николаевской железной дороги встретились два приятеля: один толстый, другой тонкий. Толстый только что пообедал на вокзале, и губы его, подернутые маслом, лоснились, как спелые вишни. Пахло от него хересом и флер-д'оранжем. Тонкий же только что вышел из вагона и был навьючен чемоданами, узлами и картонками. Пахло от него ветчиной и кофейной гущей. Из-за его спины выглядывала худенькая женщина с длинным подбородком — его жена, и высокий гимназист с прищуренным глазом — его сын. <br>
