@@ -80,29 +80,26 @@ In Russian we use the cyrillic letters. The cyrillic alphabit is phonetical. Thi
 |  ю | **u** lcer, **u** se |  юла [ula] (yule), юбка [ubka] (skirt) |
 |  я | **ya** rd, **ya** cht |  яблоко [yabloko] (apple), я [ya] (I) |
 
-                       You read the basic rules of pronunciation. There are more of them. I believe that at the beginning it is enough.
-                       I strongly advise you to start reading. Try to read anything, don't think a lot of the meaning. Just feel the sounds,
-                       letters, and words. Choose a topic that you are interested in. It could be classical Russian literature
-                       (honestly it is not the best choice, because it is very hard to read Dostoevskyi or Tolstoy, but if you want - try
-                       and read), news, math books, something about your job. The idea of the first lesson is to study how to read and pronunce.
-                       I am sure it is a critical skill in any language learning!
+You read the basic rules of pronunciation. There are more of them. I believe that at the beginning it is enough. I strongly advise you to start reading. Try to read anything, don't think a lot of the meaning. Just feel the sounds, letters, and words. Choose a topic that you are interested in. It could be classical Russian literature (honestly it is not the best choice, because it is very hard to read Dostoevskyi or Tolstoy, but if you want - try and read), news, math books, something about your job. The idea of the first lesson is to study how to read and pronunce. I am sure it is a critical skill in any language learning!
 
 The previous part was very boring. I know it by myself. So I am going to give you some useful daily words and phrases those you can use right now in your real life. Is it exciting?
 
 #### The daily words
-| Russian | English |
-|  Привет [privet] | Hi |
-|  Здравствуйте [zdravstvuyte] | Hello (formal) |
-|  Доброе утро [dobroe utro] | Good morning |
-|  Добрый вечер [dobreay vecher] | Good evening |
-|  Доброй ночи [dobrоy nochi] | Good night |
-|  Спасибо [spasibo] | Thank you |
-|  Я из Германии [ya iz germanii] | I am from Germany |
+|Russian|English|
+|--- |--- |
+|Привет [privet]|Hi|
+|Здравствуйте [zdravstvuyte]|Hello (formal)|
+|Доброе утро [dobroe utro]|Good morning|
+|Добрый вечер [dobreay vecher]|Good evening|
+|Доброй ночи [dobrоy nochi]|Good night|
+|Спасибо [spasibo]|Thank you|
+|Меня зовут ..name.. [menya zovut ...] / Я ..your name.. [ya ...]|My name is ... / I am ...|
+|Я из Германии [ya iz germanii]|I am from Germany|
 
 Homework: try to read the short story written by the famous Russian writer A. Chehov. The goal of this task is to start reading and pronunce as I mentioned before. Don't think to much about the words and their meaning. It is not our goal for today.
 
-**ТОЛСТЫЙ И ТОНКИЙ**<br>
- На вокзале Николаевской железной дороги встретились два приятеля: один толстый, другой тонкий. Толстый только что пообедал на вокзале, и губы его, подернутые маслом, лоснились, как спелые вишни. Пахло от него хересом и флер-д'оранжем. Тонкий же только что вышел из вагона и был навьючен чемоданами, узлами и картонками. Пахло от него ветчиной и кофейной гущей. Из-за его спины выглядывала худенькая женщина с длинным подбородком — его жена, и высокий гимназист с прищуренным глазом — его сын. <br>
+**ТОЛСТЫЙ И ТОНКИЙ** by Антон Чехов
+На вокзале Николаевской железной дороги встретились два приятеля: один толстый, другой тонкий. Толстый только что пообедал на вокзале, и губы его, подернутые маслом, лоснились, как спелые вишни. Пахло от него хересом и флер-д'оранжем. Тонкий же только что вышел из вагона и был навьючен чемоданами, узлами и картонками. Пахло от него ветчиной и кофейной гущей. Из-за его спины выглядывала худенькая женщина с длинным подбородком — его жена, и высокий гимназист с прищуренным глазом — его сын. <br>
 — Порфирий! — воскликнул толстый, увидев тонкого. — Ты ли это? Голубчик мой! Сколько зим, сколько лет! <br>
 — Батюшки! — изумился тонкий. — Миша! Друг детства! Откуда ты взялся? <br>
  Приятели троекратно облобызались и устремили друг на друга глаза, полные слез. Оба были приятно ошеломлены. <br>
@@ -125,16 +122,14 @@ Homework: try to read the short story written by the famous Russian writer A. Ch
 ## Lesson 2: Sentence structure
 
 #### Subject
-
-                The Subject could be a noun, a personal pronoun or a name.
+The Subject could be a noun, a personal pronoun or a name.
 
 #### Nouns
-
-                The nouns have endings with vowels (а, я, й, ь, о, е) and consonants. We change their endings depending of the genders, case,
-                and number.
+The nouns have endings with vowels (а, я, й, ь, о, е) and consonants. We change their endings depending of the genders, case, and number.
 
 #### Personal pronouns
-
+|Russian|English|
+|--- |--- |
 |  я | I |
 |  ты | you |
 |  он/она/оно | he/she/it |
@@ -142,13 +137,12 @@ Homework: try to read the short story written by the famous Russian writer A. Ch
 |  вы (plural), Вы (singular, formal; always starts from capital letter) | you |
 |  они | they |
 
-#### Verb
-
-                The verbs in the infinitive form have these endings: -ть, -ти, -чь. We change their endings depending of the tenses, case,
-                and number.
+#### Verbs
+The verbs in the infinitive form have these endings: -ть, -ти, -чь. We change their endings depending of the tenses, case, and number.
 
 #### Some very useful verbs:
-
+|Russian|English|
+|--- |--- |
 |  быть [beat] | to be |
 |  мочь [moch] | can, may |
 |  сказать [skazat] | to say, to speak, to tell, to talk |
@@ -160,8 +154,7 @@ Homework: try to read the short story written by the famous Russian writer A. Ch
 |  иметь [imet] | to have |
 |  видеть [videt] | to see |
 
-                2. There are different types of sentences in Russian. The structure of the basic sentence is Subject + verb.
-                Sometimes you can find the one-part sentence, that contain only subject or verb.
+There are different types of sentences in Russian. The structure of the basic sentence is Subject + verb. Sometimes you can find the one-part sentence, that contain only subject or verb.
 
 | One-part sentence - usually you find them in the literature. | Two-part sentence - the most important for every day use |
 | --- | --- |
@@ -169,37 +162,32 @@ Homework: try to read the short story written by the famous Russian writer A. Ch
 |  Дождь (subject). (It is raining. / It rains.) |  Идет (verb) дождь (subject). (It is raining. / It rains.) |
 
 #### Let's put everything together
-
- Я иду. [Subject: personal pronoun + verb]. (I am going)<br>
- Мы поедем. [Subject: personal pronoun + verb]. (We are going to Italy next summer.)<br>
- Марта любит. [Subject: name + verb]. (Marta loves)<br>
+    Я иду. [Subject: personal pronoun + verb]. (I am going)
+    Мы поедем. [Subject: personal pronoun + verb]. (We are going to Italy next summer.)
+    Марта любит. [Subject: name + verb]. (Marta loves)
 
 #### I have
-
-When you want to say "I have something" Russins use a special construction: "У меня есть ...".<br>
-**[Preposition + subject: pronoun + verb]**<br>
- У меня есть. [Preposition + subject: pronoun + verb]. (I have)<br>
+When you want to say "I have something" Russins use a special construction: "У меня есть ...".
+**[Preposition + subject: pronoun + verb]**
+    У меня есть. [Preposition + subject: pronoun + verb]. (I have)
 
 #### I like
-
-When you want to say "I like something" Russins use a special construction: "Мне нравится ...".<br>
-**[Subject: possessive pronoun + verb]**<br>
- Мне нравится. [Subject: pronoun + verb]. (I like)<br>
- Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)<br>
- Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)<br>
+When you want to say "I like something" Russins use a special construction: "Мне нравится ...".
+**[Subject: possessive pronoun + verb]**
+    Мне нравится. [Subject: pronoun + verb]. (I like)
+    Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)<br>
+    Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)<br>
 
 [Table of contents](#contents-href)
 
 ## Lesson 3: Present tense
 
 1. We use the Present tense (настоящее время) when we talk about a repeated action (Present Simple),
-                an action which is happening at the time of speaking (Present continuous),
-                an action which start in the past and continuous in the present (Present perfect continuous),
-                and sometimes future actions (Future simple).
+an action which is happening at the time of speaking (Present continuous), an action which start in the past and continuous in the present (Present perfect continuous), and sometimes future actions (Future simple).
 
-We conjugate verbs when we use them with pronouns and nouns. We do not need to agree verbs with gender with the Present tense.
+1.1. We conjugate verbs when we use them with pronouns and nouns. We do not need to agree verbs with gender with the Present tense.
 
-There are two groups of verbs. They conjugate in a different way. The difference between them are endings.
+1.2. There are two groups of verbs. They conjugate in a different way. The difference between them are endings.
 
 * **1th conjugation** verbs (infinitive) with endings:
 * -ать (работать)
@@ -221,8 +209,7 @@ When you want to conjugate a verb just change its ending.
 |  вы (plural you; polite singular you) | -ете | -ите |
 |  они (they) | -ют / -ут | -ят / -ат |
 
-For example:
-
+**For example:**
 | 1st: читать (i) - to read | 2nd: уходить (i) - to leave |
 | --- | --- |
 |  я читаю (I read) |  я ухожу (I leave) |
@@ -263,19 +250,18 @@ For example:
 
 #### 4. Questions.
 
-                4.1. We can make the simple questions by changing intonation.<br>
+4.1. We can make the simple questions by changing intonation.
 
-* Ты читаешь? (Are you reading? Do you read?)
-* Они уходят? (Are they leaving?)
+    Ты читаешь? (Are you reading? Do you read?)
+    Они уходят? (Are they leaving?)
 
-                4.2. When we create a question with an interrogative word, we just place it at the beginning of the sentence and use
-                the right intonation.<br>
+4.2. When we create a question with an interrogative word, we just place it at the beginning of the sentence and use the right intonation.
 
-* Что ты читаешь? (What do you read?)
-* Что ты любишь? (What do you like?)
-* Когда ты прилетаешь? (When will you arrive?)
-* Когда у тебя (есть - to be; we always skip the verb to be) день рождения? (When is your birthday?)
-* Откуда ты (есть - to be; we always skip the verb to be; here is the interesting structure of the sentence: interrogative word + pronoun?)? (When is your birthday?)
+    Что ты читаешь? (What do you read?)
+    Что ты любишь? (What do you like?)
+    Когда ты прилетаешь? (When will you arrive?)
+    Когда у тебя (есть - to be; we always skip the verb to be) день рождения? (When is your birthday?)
+    Откуда ты (есть - to be; we always skip the verb to be; here is the interesting structure of the sentence: interrogative word + pronoun?)? (When is your birthday?)
 
 [Table of contents](#contents-href)
 
@@ -283,8 +269,7 @@ For example:
 
 #### Gender
 
-There are three genders of the nouns in Russian language. The practical aproach of it is an agreement. We always
-              agree the nouns with the adjectives by changing their endings. We agree the nouns in gender, numbers and cases.
+There are three genders of the nouns in Russian language. The practical aproach of it is an agreement. We always agree the nouns with the adjectives by changing their endings. We agree the nouns in gender, numbers and cases.
 
 * **1. masculine (m) мужской род**
 
@@ -293,13 +278,11 @@ There are three genders of the nouns in Russian language. The practical aproach 
   - 1.3. nouns ending in -й: музей, воробей
   - 1.4. some nouns ending in -ь (learn them as exceptions)
 
-
 * **2. feminine (f) женский род**
 
   - 2.1. natural feminine: мама, кошка
   - 2.2. nouns ending in -а, -я: комната, фамилия, Россия
   - 2.3. some nouns ending in -знь, -сть, -сь: подпись, новость, жизнь
-
 
 * **3. neuter (n) средний род**
 
@@ -307,11 +290,9 @@ There are three genders of the nouns in Russian language. The practical aproach 
   - 3.2. nouns ending in -е: здание, поле
   - 3.3. exceptions: время, имя, интервью, такси
 
-
 #### Numbers
 
-To make the plurals we change the endings as we do in almost any language. Compare to English in Russian we have
-                the several possible endings: -ы, -и, -а, -я.
+To make the plurals we change the endings as we do in almost any language. Compare to English in Russian we have the several possible endings: -ы, -и, -а, -я.
 
 | Singular | Plural endings | Examples |
 | --- | --- | --- |
@@ -322,8 +303,7 @@ To make the plurals we change the endings as we do in almost any language. Compa
 | neuter nouns ending in -о | -а |  окно > окна (window > windows) |
 | neuter nouns ending in -е | -я |  приведение > приведения (ghost > ghosts) |
 
-                Exceptions: some nouns doesn't have a plural form at all. They are always singular.
-
+**Exceptions: some nouns doesn't have a plural form at all. They are always singular.**
 * аспирин (aspirin)
 * бархат (velvet)
 * здоровье (health)
@@ -339,8 +319,7 @@ To make the plurals we change the endings as we do in almost any language. Compa
 
 #### Agreement
 
-                  As I mentioned before the adjectives and the nouns must agree with each other in gender, numbers and cases.
-                  Right now I show the agreement only in Nominative case.
+As I mentioned before the adjectives and the nouns must agree with each other in gender, numbers and cases. Right now I show the agreement only in Nominative case.
 
 | Nomimative case |  |
 | --- | --- |
@@ -353,13 +332,11 @@ To make the plurals we change the endings as we do in almost any language. Compa
 
 ## Lesson 5: Местоимения - Pronouns
 
-There are a lot of different pronouns: личные, возвратные, притяжательные, вопросительные, относительные, указательные,
-                определительные, отрицательные, неопределенные. As a beginner, you don't need to know all of them. Right now pay attention only
-                to personal (личные) and possessive (притяжательные) pronouns. Other types of pronouns are not important at the beginning.
+There are a lot of different pronouns: личные, возвратные, притяжательные, вопросительные, относительные, указательные, определительные, отрицательные, неопределенные. As a beginner, you don't need to know all of them. Right now pay attention only to personal (личные) and possessive (притяжательные) pronouns. Other types of pronouns are not important at the beginning.
 
 #### 1. Личные местоимения - Personal pronouns
 
-                We use personal pronouns only in one case - as a subject of a sentence.
+We use personal pronouns only in one case - as a subject of a sentence.
 
 |  я | I |
 |  ты | you |
