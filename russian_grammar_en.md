@@ -17,23 +17,23 @@
 
 The grammar of any language is a core. It is important to know the basic rules. I am going to expand this part with each update. There are few things that I would like to share with you about Russian language.
 
-* 1. In Russian we don't have any articles. It is obvious from a content what you mean.
+1. In Russian we don't have any articles (it is not exactly true, but don't think about it right now). It is obvious from a content what you mean.
 
-* 2. The verb to be (быть) is not very important. Usually we don't use it.
+2. The verb to be (быть) is not very important. Usually we don't use it.
 
-            I am Antony. - Я Энтони.
-            It is my car. - Это моя машина.
-            Today is a nice day. - Сегодня хороший день.
+    *I am Antony. - Я Энтони.
+    It is my car. - Это моя машина.
+    Today is a nice day. - Сегодня хороший день.*
 
-* 3. There are three genders in Russian: masculine, feminine, neuter.
+3. There are three genders in Russian: masculine, feminine, neuter.
 
-* 4. You must agree words in gender, numbers and cases. You do it by changing the endings of words.
+4. You must agree words in gender, numbers and cases. You do it by changing the endings of words.
 
-* 5. There are conjugation of the verbs.
+5. There are conjugation of the verbs.
 
-* 6. There are cases. Probably it is the most difficult part of the grammar.
+6. There are cases. Probably it is the most difficult part of the grammar.
 
-* 7. The main purpose of any language learning is an art (or science) of the creation the sentences. In Russian you can put the words (pronouns, nouns, adjectives and verbs) in various positions. Of course there are many rules how to do it.
+7. The main purpose of any language learning is an art (or science) of the creation the sentences. In Russian you can put the words (pronouns, nouns, adjectives and verbs) in various positions. Of course there are many rules how to do it.
 
 [Table of contents](#Grammar_table_of_contents_0)
 
@@ -162,40 +162,39 @@ There are different types of sentences in Russian. The structure of the basic se
 |  Дождь (subject). (It is raining. / It rains.) |  Идет (verb) дождь (subject). (It is raining. / It rains.) |
 
 #### Let's put everything together
-    Я иду. [Subject: personal pronoun + verb]. (I am going)
-    Мы поедем. [Subject: personal pronoun + verb]. (We are going to Italy next summer.)
-    Марта любит. [Subject: name + verb]. (Marta loves)
+*Я иду. [Subject: personal pronoun + verb]. (I am going)
+Мы поедем. [Subject: personal pronoun + verb]. (We are going to Italy next summer.)
+Марта любит. [Subject: name + verb]. (Marta loves)*
 
 #### I have
 When you want to say "I have something" Russins use a special construction: "У меня есть ...".
 **[Preposition + subject: pronoun + verb]**
-    У меня есть. [Preposition + subject: pronoun + verb]. (I have)
+*У меня есть. [Preposition + subject: pronoun + verb]. (I have)*
 
 #### I like
 When you want to say "I like something" Russins use a special construction: "Мне нравится ...".
 **[Subject: possessive pronoun + verb]**
-    Мне нравится. [Subject: pronoun + verb]. (I like)
-    Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)
-    Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)
+*Мне нравится. [Subject: pronoun + verb]. (I like)
+Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)
+Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)*
 
 [Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 3: Present tense
 
-1. We use the Present tense (настоящее время) when we talk about a repeated action (Present Simple),
-an action which is happening at the time of speaking (Present continuous), an action which start in the past and continuous in the present (Present perfect continuous), and sometimes future actions (Future simple).
+3.1. We use the Present tense (настоящее время) when we talk about a repeated action (Present Simple), an action which is happening at the time of speaking (Present continuous), an action which start in the past and continuous in the present (Present perfect continuous), and sometimes future actions (Future simple).
 
-1.1. We conjugate verbs when we use them with pronouns and nouns. We do not need to agree verbs with gender with the Present tense.
+3.2. We conjugate verbs when we use them with pronouns and nouns. We do not need to agree verbs with gender with the Present tense.
 
-1.2. There are two groups of verbs. They conjugate in a different way. The difference between them are endings.
+3.3. There are two groups of verbs. They conjugate in a different way. The difference between them are endings.
 
-* **1th conjugation** verbs (infinitive) with endings:
+**1th conjugation** verbs (infinitive) with endings:
 * -ать (работать)
 * -ять (стоять)
 * -еть (болеть)
 * -нуть (гнуть)
 
-* **2nd conjugation** verbs (infinitive) with endings:
+**2nd conjugation** verbs (infinitive) with endings:
 * -ить (уходить - to leave)
 
 When you want to conjugate a verb just change its ending.
@@ -219,12 +218,12 @@ When you want to conjugate a verb just change its ending.
 |  вы/Вы читаете (you/- read) |  вы/Вы уходите (you/- leave) |
 |  они читают (they read) |  они уходят (they leave) |
 
-2. As always there is an additional rule. Sometimes we must change the last letter of the stem. This happens, because of the better pronounciation. You can learn this rule or simply learn the conjugation for each verb.
+3.4. As always there is an additional rule. Sometimes we must change the last letter of the stem. This happens, because of the better pronounciation. You can learn this rule or simply learn the conjugation for each verb.
 
-* The rule: change the last letter of the stem in these cases:
-* 2.1.1. 1th person singular (я) 2nd conjugation
-* 2.2.1. all persons of the 1st conjugation verbs ending in -ать
-* 2.2.2. ты/он/мы/вы of the 1st conjugation verbs ending in -чь
+The rule: change the last letter of the stem in these cases:
+3.4.1. 1th person singular (я) 2nd conjugation
+3.4.2. all persons of the 1st conjugation verbs ending in -ать
+3.4.3. ты/он/мы/вы of the 1st conjugation verbs ending in -чь
 
 | Last letter of the stem | Changes to | Example |
 | --- | --- | --- |
@@ -252,22 +251,22 @@ When you want to conjugate a verb just change its ending.
 
 4.1. We can make the simple questions by changing intonation.
 
-    Ты читаешь? (Are you reading? Do you read?)
-    Они уходят? (Are they leaving?)
+*Ты читаешь? (Are you reading? Do you read?)
+Они уходят? (Are they leaving?)*
 
 4.2. When we create a question with an interrogative word, we just place it at the beginning of the sentence and use the right intonation.
 
-    Что ты читаешь? (What do you read?)
-    Что ты любишь? (What do you like?)
-    Когда ты прилетаешь? (When will you arrive?)
-    Когда у тебя (есть - to be; we always skip the verb to be) день рождения? (When is your birthday?)
-    Откуда ты (есть - to be; we always skip the verb to be; here is the interesting structure of the sentence: interrogative word + pronoun?)? (When is your birthday?)
+*Что ты читаешь? (What do you read?)
+Что ты любишь? (What do you like?)
+Когда ты прилетаешь? (When will you arrive?)
+Когда у тебя (есть - to be; we always skip the verb to be) день рождения? (When is your birthday?)
+Откуда ты (есть - to be; we always skip the verb to be; here is the interesting structure of the sentence: interrogative word + pronoun?)? (When is your birthday?)*
 
 [Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 4: Nouns
 
-#### Gender
+#### 4.1. Gender
 
 There are three genders of the nouns in Russian language. The practical aproach of it is an agreement. We always agree the nouns with the adjectives by changing their endings. We agree the nouns in gender, numbers and cases.
 
@@ -290,7 +289,7 @@ There are three genders of the nouns in Russian language. The practical aproach 
   - 3.2. nouns ending in -е: здание, поле
   - 3.3. exceptions: время, имя, интервью, такси
 
-#### Numbers
+#### 4.2. Numbers
 
 To make the plurals we change the endings as we do in almost any language. Compare to English in Russian we have the several possible endings: -ы, -и, -а, -я.
 
@@ -304,20 +303,20 @@ To make the plurals we change the endings as we do in almost any language. Compa
 | neuter nouns ending in -е | -я |  приведение > приведения (ghost > ghosts) |
 
 **Exceptions: some nouns doesn't have a plural form at all. They are always singular.**
-* аспирин (aspirin)
-* бархат (velvet)
-* здоровье (health)
-* картофель (potato)
-* кислород (oxygen)
-* любовь (love)
-* мебель (furniture)
-* медь (copper)
-* морковь (carrot)
-* мука (flour)
-* охота (hunting)
-* сахар (sugar)
+*аспирин (aspirin)
+бархат (velvet)
+здоровье (health)
+картофель (potato)
+кислород (oxygen)
+любовь (love)
+мебель (furniture)
+медь (copper)
+морковь (carrot)
+мука (flour)
+охота (hunting)
+сахар (sugar)*
 
-#### Agreement
+#### 4.3. Agreement
 
 As I mentioned before the adjectives and the nouns must agree with each other in gender, numbers and cases. Right now I show the agreement only in Nominative case.
 
@@ -359,9 +358,9 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 |  ваш |  вы | your |
 |  их |  они | their |
 
-    Это мой город. - It is my town.
-    Это его машина. - It is his car.
-    Это мои деньги. - It is my money.
+*Это мой город. - It is my town.
+Это его машина. - It is his car.
+Это мои деньги. - It is my money.*
 
 #### 5.3. The complete declensions of Russian possessive pronouns
 
@@ -432,20 +431,20 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 
 6.3.1. Usually the perfective aspect forms from the imperfective by adding a prefixation. There are several prefixations that you can use for this:
 
-    про-: думать (imperf) > продумать (perf) (to think > have thought)
-    по-:  думать (imperf) > подумать (perf) (to think > have thought)
-    при-:  думать (imperf) > придумать (perf) (to think > have thought)
-    на-: рисовать (imperf) > нарисовать (perf) (to draw > have drawn)
-    с-: делать (imperf) > сделать (perf) (to do > have done)
-    вы-: пить (imperf) > выпить (perf) (to drink > have drunk)
+*про-: думать (imperf) > продумать (perf) (to think > have thought)
+по-:  думать (imperf) > подумать (perf) (to think > have thought)
+при-:  думать (imperf) > придумать (perf) (to think > have thought)
+на-: рисовать (imperf) > нарисовать (perf) (to draw > have drawn)
+с-: делать (imperf) > сделать (perf) (to do > have done)
+вы-: пить (imperf) > выпить (perf) (to drink > have drunk)*
 
 6.3.2. Sometimes we change the suffix of the imperfective verb to make the perfective.
 
-    отвечать (imperf) > ответить (perf) (to answer > have answered)
+*отвечать (imperf) > ответить (perf) (to answer > have answered)*
 
 6.3.3. In rare cases we use the different stem.
 
-    говорить (imperf) > сказать (perf) (to tell/say > have told/said>
+*говорить (imperf) > сказать (perf) (to tell/say > have told/said>*
 
 [Table of contents](#Grammar_table_of_contents_0)
 
@@ -466,8 +465,8 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 
 7.3. Exception: when infinitive has these endings: -чь, -ти, -нуть We do not use the suffix -л with singular masculine subjects to form the Past tense. Just learn these verbs.
 
-    беречь (i) - я берег (I cared)
-    печь (i) - я пёк (I baked)
+*беречь (i) - я берег (I cared)
+печь (i) - я пёк (I baked)*
 
 4. To create a negative form just add **не** (not) before the verb.
 
@@ -491,24 +490,24 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 8.3. Easy way to create Future tense: add a verb быть (to be) before a main verb (infinitive). Don't forget about the conjugation of the verb быть.
 **быть (to be) + verb (infinitive)**
 
-    я буду читать - I will read
-    ты будешь читать - you will read
-    он/она/оно/Вы (formal) будет читать - he/she/it will read
-    мы будем читать - we will read
-    вы будете читать - you will read
-    они будет читать - they will read
+*я буду читать - I will read
+ты будешь читать - you will read
+он/она/оно/Вы (formal) будет читать - he/she/it will read
+мы будем читать - we will read
+вы будете читать - you will read
+они будет читать - they will read*
 
 Actually here we use the imperfective form/aspect of the verb.
 
 8.4. Form the Future with a verb in a perfective form. Remember about the conjugation!
 **читать (infinitive) -> perfective forms: прочитать, почитать**
 
-    я прочитаю - I will have read / will read
-    ты прочитаешь - you will have read / will read
-    он/она/оно/Вы (formal) прочитает - he/she/it will have read / will read
-    мы прочитаем - we will have read / will read
-    вы прочитаете - you will have read / will read
-    они прочитают - they will have read / will read
+*я прочитаю - I will have read / will read
+ты прочитаешь - you will have read / will read
+он/она/оно/Вы (formal) прочитает - he/she/it will have read / will read
+мы прочитаем - we will have read / will read
+вы прочитаете - you will have read / will read
+они прочитают - they will have read / will read*
 
 8.4. To create a negative form just add **не** (not) before the verb.
 
@@ -535,18 +534,18 @@ Actually here we use the imperfective form/aspect of the verb.
 
 **более (more) / менее (less) + прилагательное (adjective)**
 
-    красивый закат > более красивый закат, менее красивый закат
-    большое озеро > более большое озеро, менее большое озеро
+*красивый закат > более красивый закат, менее красивый закат
+большое озеро > более большое озеро, менее большое озеро*
 
 9.1.4. Простой - simple: in this case we add a new ending to a root of the adjective. Actually it is not ending, it is a suffix. We choose a right suffix based on a gender of a noun.
 
 **прилагательное (adjective) + -ее (f), -ей (m), -е (f), -ше (n)**
 
-    красивый закат > красивей закат
-    тонкая ветка > тоньше ветка
-    крепкая веревка > крепче веревка
-    смешная девушка > смешнее девушка
-    большое озеро > больше озеро
+*красивый закат > красивей закат
+тонкая ветка > тоньше ветка
+крепкая веревка > крепче веревка
+смешная девушка > смешнее девушка
+большое озеро > больше озеро*
 
 #### 9.2. Превосходная степень прилагательного - Superlative adjectives
 
@@ -558,17 +557,17 @@ Actually here we use the imperfective form/aspect of the verb.
 
 **самый (most) / наиболее (most) / наименее (least)+ прилагательное (adjective)**
 
-    Она самая красивая. - She is the most beautiful woman.
-    Наиболее высокое здание в Европе - This is the highest building in Europe.
+*Она самая красивая. - She is the most beautiful woman.
+Наиболее высокое здание в Европе - This is the highest building in Europe.*
 
 9.2.4. Простой - simple: in this case we add a new suffix to a root of the adjective. We should change the ending based on a gender, number and case of a noun.
 
 **прилагательное (adjective) + -ейш- (-айш-) + ending**
 
-    красивый закат > красивейший закат
-    тонкая ветка > тончайшая ветка
-    крепкая веревка > крепчайшая веревка
-    смешная девушка > смешнейшая девушка
+*красивый закат > красивейший закат
+тонкая ветка > тончайшая ветка
+крепкая веревка > крепчайшая веревка
+смешная девушка > смешнейшая девушка*
 
 [Table of contents](#Grammar_table_of_contents_0)
 
@@ -591,42 +590,42 @@ Actually here we use the imperfective form/aspect of the verb.
 10.2.3. With это, вот sentences
 10.2.4. In possessive constructions
 
-    **Мы** из России. We are from Russia.
-    **Девушка** вошла в комнату. The girl entered into a room.
-    **Ночь** холодная. The night is cold.
-    Это мой **дом**. This is my house.
-    Вот моя **машина**. Here is my car.
+***Мы** из России. We are from Russia.
+**Девушка** вошла в комнату. The girl entered into a room.
+**Ночь** холодная. The night is cold.
+Это мой **дом**. This is my house.
+Вот моя **машина**. Here is my car.*
 
 **10.3. Родительный - Genitive:** shows that something belongs or refers to something (similar to "of" in English). It is the most frequently used case. We use Genitive case with or without prepositions.
 
 10.3.1. We use it to show an absense of something. We can do it as a simple negative sentence with or with prepositions без - without and кроме - except.
 
-    У меня нет **самолета**. I don't have an airplane.
-    Я пью кофе без **сахара**. I drink coffee withou sugar. 
-    Вы можете идти, кроме **Александра**. - You may leave except Aleksandr.
+*У меня нет **самолета**. I don't have an airplane.
+Я пью кофе без **сахара**. I drink coffee withou sugar. 
+Вы можете идти, кроме **Александра**. - You may leave except Aleksandr.*
 
 10.3.2. With the preposition у (demonstrates possession)
 
-    У Тамары есть **книга**. Tamara has a book.
+*У Тамары есть **книга**. Tamara has a book.*
 
 10.3.3. To indicate an owner
 
-    Эта машина **друга**. This is a friend's car.
+*Эта машина **друга**. This is a friend's car.*
 
 10.3.4. We use it to show relation between one object with another
 
-    Это расписание **автобусов**. This is a bus schedule.
+*Это расписание **автобусов**. This is a bus schedule.*
 
 10.3.5. We use it after words of the quantity or amount: больше - more; меньше - less; мало - few, little; много - many, much;
 немало, немного, несколько, сколько, столько, чуть-чуть; килограмм, фунт, бутылка
 
-    В библиотеке немного **людей**. There are not so many people at the library.
-    Я купил бутылку **вина**. I bought a bottle of wine.
+*В библиотеке немного **людей**. There are not so many people at the library.
+Я купил бутылку **вина**. I bought a bottle of wine.*
 
 10.3.6. We use it to indicate part of a whole (a fraction) after these words: полтора, треть
 
-    Используйте полчашки **сахара**. Use a half cup of sugar.
-    Я оставил ей треть **торта**. I left her a one third of a cake.
+*Используйте полчашки **сахара**. Use a half cup of sugar.
+Я оставил ей треть **торта**. I left her a one third of a cake.*
 
 10.3.7. To indicate the exact number
 
