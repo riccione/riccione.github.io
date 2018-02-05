@@ -1,17 +1,17 @@
 ## Grammar: table of contents
 
-* [Overview](#overview-href)
-* [Lesson 1: Pronunciation](#lesson1-href)
-* [Lesson 2: Sentence structure](#lesson2-href)
-* [Lesson 3: Present tense](#lesson3-href)
-* [Lesson 4: Nouns, gender, number, agreement](#lesson4-href)
-* [Lesson 5: Pronouns](#lesson5-href)
-* [Lesson 6: Verbal aspect](#lesson6-href)
-* [Lesson 7: Past tense](#lesson7-href)
-* [Lesson 8: Future tense](#lesson8-href)
-* [Lesson 9: Adjective](#lesson9-href)
-* [Lesson 10: Cases](#lesson10-href)
-* [Lesson 11: Questions](#lesson11-href)
+* [Overview](#Overview_15)
+* [Lesson 1: Pronunciation](#Lesson_1_Alphabit_and_pronunciation_39)
+* [Lesson 2: Sentence structure](#Lesson_2_Sentence_structure_121)
+* [Lesson 3: Present tense](#Lesson_3_Present_tense_182)
+* [Lesson 4: Nouns, gender, number, agreement](#Lesson_4_Nouns_267)
+* [Lesson 5: Pronouns](#Lesson_5___Pronouns_332)
+* [Lesson 6: Verbal aspect](#Lesson_6_Verbal_aspect_424)
+* [Lesson 7: Past tense](#Lesson_7_Past_tense_451)
+* [Lesson 8: Future tense](#Lesson_8_Future_tense_486)
+* [Lesson 9: Adjective](#Lesson_9___Adjective_525)
+* [Lesson 10: Cases](#Lesson_10___Cases_574)
+* [Lesson 11: Questions](#Lesson_11___Questions_637)
 
 ## Overview
 
@@ -35,7 +35,7 @@ The grammar of any language is a core. It is important to know the basic rules. 
 
 * 7. The main purpose of any language learning is an art (or science) of the creation the sentences. In Russian you can put the words (pronouns, nouns, adjectives and verbs) in various positions. Of course there are many rules how to do it.
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 1: Alphabit and pronunciation
 
@@ -46,39 +46,39 @@ In Russian we use the cyrillic letters. The cyrillic alphabit is phonetical. Thi
 
 | Letter | Pronunciation | Examples |
 | --- | --- | --- |
-| a | c **u** t, b **a** r, **a** rm | армада [armada] (armada),артишок [artishok] (artichoke) |
-| б | **b** each, **b** lade | борьба [borba] (fight),бочка [bochka] (barrel) |
-|  в | **V** ictor, **v** eil |  Виктор [viktor] (Victor), вода [voda] (water) |
-|  г | **g** o, **g** arbage |  гараж [garaj] (garage), герой [geroy] (hero) |
-|  д | **d** o |  дом [dom] (house), давать [davat] (to give) |
-|  е | **ye** t, **ye**>ah |  ехать [yehat] (to go), ель [yel] (fir) |
-|  ё | **yo** lk |  ёж [yoj] (hedgehog) |
-|  ж | mea **s** ure |  жук [juk] (bug), жизнь [jizn] (life) |
-|  з | **z** oo |  замок [zamok] (castle, lock), заноза [zanoza] (splinter) |
-|  и | s **ee** |  искра [iskra] (spark) |
-|  й | m **y**, b **oy** |  вой [voy] (howl), поцелуй [potseluy] (kiss) |
-|  к | **k** ill, **k** iss |  каракатица [karakatitsa] (cuttlefish), карман [karman] (pocket) |
-|  л | **l** eve **l**, **l** ie |  ложка [lojka] (spoon), лавка [lavka] (shop) |
-|  м | **m** ist, **m** ap |  мясо [myaso] (meat), мир [mer] (world) |
-|  н | **n** ot, **n** ail |  ноготь [nogot] (nail), надежда [nadejda] (hope) |
-|  о | b **a** ll, s **o** ft |  оружие [orujia] (weapon), огонь [ogon] (fire) |
-|  п | **p** en, **p** encil |  палка [palka] (stick), пить [pit] (to drink) |
-|  р | **r** oll, **r** ide |  ракета [raketa] (rocket), рыба [ri:ba] (fish) |
-|  с | **s** oft, **s** un |  солнце [solntse] (sun), сойка [soyka] (jay) |
-|  т | **t** ie, **t** able |  талант [talant] (talent), тесто [testo] (dough) |
-|  у | s **oo** n, r **oo** t |  утка [utka] (duck), урок [urok] (lesson) |
-|  ф | **f** act, **f** ix |  факт [fakt] (fact), фантастика [fantastika] (science fiction) |
-|  х | **h** ouse, **h** am |  халва [halva] (halva), ходить [hodit] (to walk) |
-|  ц | [ts] lis **ts** |  цапля [tsaplya] (heron), целиться [tselitsya] (to aim) |
-|  ч | **ch** ase, **ch** apter |  чашка [chashka] (cup), чаща [chasha] (thicket) |
-|  ш | **sh** ut, **sh** ake |  шанс [shans] (chance), широкий [shirokiy] (wide) |
-|  щ | **sh** eep |  щавель [shavel] (sorrel) |
+| a | c**u**t, b**a**r, **a**rm | армада [armada] (armada),артишок [artishok] (artichoke) |
+| б | **b**each, **b**lade | борьба [borba] (fight),бочка [bochka] (barrel) |
+|  в | **V**ictor, **v**eil |  Виктор [viktor] (Victor), вода [voda] (water) |
+|  г | **g**o, **g**arbage |  гараж [garaj] (garage), герой [geroy] (hero) |
+|  д | **d**o |  дом [dom] (house), давать [davat] (to give) |
+|  е | **ye**t, **ye**ah |  ехать [yehat] (to go), ель [yel] (fir) |
+|  ё | **yo**lk |  ёж [yoj] (hedgehog) |
+|  ж | mea**s**ure |  жук [juk] (bug), жизнь [jizn] (life) |
+|  з | **z**oo |  замок [zamok] (castle, lock), заноза [zanoza] (splinter) |
+|  и | s**ee** |  искра [iskra] (spark) |
+|  й | m**y**, b**oy** |  вой [voy] (howl), поцелуй [potseluy] (kiss) |
+|  к | **k**ill, **k**iss |  каракатица [karakatitsa] (cuttlefish), карман [karman] (pocket) |
+|  л | **l**eve**l**, **l**ie |  ложка [lojka] (spoon), лавка [lavka] (shop) |
+|  м | **m**ist, **m**ap |  мясо [myaso] (meat), мир [mer] (world) |
+|  н | **n**ot, **n**ail |  ноготь [nogot] (nail), надежда [nadejda] (hope) |
+|  о | b**a**ll, s**o**ft |  оружие [orujia] (weapon), огонь [ogon] (fire) |
+|  п | **p**en, **p**encil |  палка [palka] (stick), пить [pit] (to drink) |
+|  р | **r**oll, **r**ide |  ракета [raketa] (rocket), рыба [ri:ba] (fish) |
+|  с | **s**oft, **s**un |  солнце [solntse] (sun), сойка [soyka] (jay) |
+|  т | **t**ie, **t**able |  талант [talant] (talent), тесто [testo] (dough) |
+|  у | s**oo**n, r**oo**t |  утка [utka] (duck), урок [urok] (lesson) |
+|  ф | **f**act, **f**ix |  факт [fakt] (fact), фантастика [fantastika] (science fiction) |
+|  х | **h**ouse, **h**am |  халва [halva] (halva), ходить [hodit] (to walk) |
+|  ц | [ts] lis**ts** |  цапля [tsaplya] (heron), целиться [tselitsya] (to aim) |
+|  ч | **ch**ase, **ch**apter |  чашка [chashka] (cup), чаща [chasha] (thicket) |
+|  ш | **sh**ut, **sh**ake |  шанс [shans] (chance), широкий [shirokiy] (wide) |
+|  щ | **sh**eep |  щавель [shavel] (sorrel) |
 |  ъ | separate two parts of the word |  съесть [s est] (to eat), объезд [ob ezd] (detour) |
-|  ы | [ea] **ea** ch, there is no equivalent of this sound in English |  рыба [reaba] (fish), рысь [reas] (lynx) |
+|  ы | [ea] **ea**ch, there is no equivalent of this sound in English |  рыба [reaba] (fish), рысь [reas] (lynx) |
 |  ь | make the preceding consonant soft |  пень [pen] (stump) |
-|  э | n **e** work, c **a** t |  эрудиция [eruditsiay] (erudition) |
-|  ю | **u** lcer, **u** se |  юла [ula] (yule), юбка [ubka] (skirt) |
-|  я | **ya** rd, **ya** cht |  яблоко [yabloko] (apple), я [ya] (I) |
+|  э | n**e**work, c**a**t |  эрудиция [eruditsiay] (erudition) |
+|  ю | **u**lcer, **u**se |  юла [ula] (yule), юбка [ubka] (skirt) |
+|  я | **ya**rd, **ya**cht |  яблоко [yabloko] (apple), я [ya] (I) |
 
 You read the basic rules of pronunciation. There are more of them. I believe that at the beginning it is enough. I strongly advise you to start reading. Try to read anything, don't think a lot of the meaning. Just feel the sounds, letters, and words. Choose a topic that you are interested in. It could be classical Russian literature (honestly it is not the best choice, because it is very hard to read Dostoevskyi or Tolstoy, but if you want - try and read), news, math books, something about your job. The idea of the first lesson is to study how to read and pronunce. I am sure it is a critical skill in any language learning!
 
@@ -99,25 +99,25 @@ The previous part was very boring. I know it by myself. So I am going to give yo
 Homework: try to read the short story written by the famous Russian writer A. Chehov. The goal of this task is to start reading and pronunce as I mentioned before. Don't think to much about the words and their meaning. It is not our goal for today.
 
 **ТОЛСТЫЙ И ТОНКИЙ** by Антон Чехов
-На вокзале Николаевской железной дороги встретились два приятеля: один толстый, другой тонкий. Толстый только что пообедал на вокзале, и губы его, подернутые маслом, лоснились, как спелые вишни. Пахло от него хересом и флер-д'оранжем. Тонкий же только что вышел из вагона и был навьючен чемоданами, узлами и картонками. Пахло от него ветчиной и кофейной гущей. Из-за его спины выглядывала худенькая женщина с длинным подбородком — его жена, и высокий гимназист с прищуренным глазом — его сын. <br>
-— Порфирий! — воскликнул толстый, увидев тонкого. — Ты ли это? Голубчик мой! Сколько зим, сколько лет! <br>
-— Батюшки! — изумился тонкий. — Миша! Друг детства! Откуда ты взялся? <br>
- Приятели троекратно облобызались и устремили друг на друга глаза, полные слез. Оба были приятно ошеломлены. <br>
-— Милый мой! — начал тонкий после лобызания. — Вот не ожидал! Вот сюрприз! Ну, да погляди же на меня хорошенько! Такой же красавец, как и был! Такой же душонок и щеголь! Ах ты, господи! Ну, что же ты? Богат? Женат? Я уже женат, как видишь... Это вот моя жена, Луиза, урожденная Ванценбах... лютеранка... А это сын мой, Нафанаил, ученик III класса. Это, Нафаня, друг моего детства! В гимназии вместе учились! <br>
- Нафанаил немного подумал и снял шапку. <br>
-— В гимназии вместе учились! — продолжал тонкий. — Помнишь, как тебя дразнили? Тебя дразнили Геростратом за то, что ты казенную книжку папироской прожег, а меня Эфиальтом за то, что я ябедничать любил. Хо-хо... Детьми были! Не бойся, Нафаня! Подойди к нему поближе... А это моя жена, урожденная Ванценбах... лютеранка. <br>
- Нафанаил немного подумал и спрятался за спину отца. <br>
-— Ну, как живешь, друг? — спросил толстый, восторженно глядя на друга. — Служишь где? Дослужился? <br>
-— Служу, милый мой! Коллежским асессором уже второй год и Станислава имею. Жалованье плохое... ну, да бог с ним! Жена уроки музыки дает, я портсигары приватно из дерева делаю. Отличные портсигары! По рублю за штуку продаю. Если кто берет десять штук и более, тому, понимаешь, уступка. Пробавляемся кое-как. Служил, знаешь, в департаменте, а теперь сюда переведен столоначальником по тому же ведомству... Здесь буду служить. Ну, а ты как? Небось, уже статский? А? <br>
-— Нет, милый мой, поднимай повыше, — сказал толстый. — Я уже до тайного дослужился... Две звезды имею. <br>
- Тонкий вдруг побледнел, окаменел, но скоро лицо его искривилось во все стороны широчайшей улыбкой; казалось, что от лица и глаз его посыпались искры. Сам он съежился, сгорбился, сузился... Его чемоданы, узлы и картонки съежились, поморщились... Длинный подбородок жены стал еще длиннее; Нафанаил вытянулся во фрунт и застегнул все пуговки своего мундира... <br>
-— Я, ваше превосходительство... Очень приятно-с! Друг, можно сказать, детства и вдруг вышли в такие вельможи-с! Хи-хи-с. <br>
-— Ну, полно! — поморщился толстый. — Для чего этот тон? Мы с тобой друзья детства — и к чему тут это чинопочитание! <br>
-— Помилуйте... Что вы-с... — захихикал тонкий, еще более съеживаясь. — Милостивое внимание вашего превосходительства... вроде как бы живительной влаги... Это вот, ваше превосходительство, сын мой Нафанаил... жена Луиза, лютеранка, некоторым образом... <br>
- Толстый хотел было возразить что-то, но на лице у тонкого было написано столько благоговения, сладости и почтительной кислоты, что тайного советника стошнило. Он отвернулся от тонкого и подал ему на прощанье руку. <br>
+На вокзале Николаевской железной дороги встретились два приятеля: один толстый, другой тонкий. Толстый только что пообедал на вокзале, и губы его, подернутые маслом, лоснились, как спелые вишни. Пахло от него хересом и флер-д'оранжем. Тонкий же только что вышел из вагона и был навьючен чемоданами, узлами и картонками. Пахло от него ветчиной и кофейной гущей. Из-за его спины выглядывала худенькая женщина с длинным подбородком — его жена, и высокий гимназист с прищуренным глазом — его сын. 
+— Порфирий! — воскликнул толстый, увидев тонкого. — Ты ли это? Голубчик мой! Сколько зим, сколько лет! 
+— Батюшки! — изумился тонкий. — Миша! Друг детства! Откуда ты взялся? 
+ Приятели троекратно облобызались и устремили друг на друга глаза, полные слез. Оба были приятно ошеломлены. 
+— Милый мой! — начал тонкий после лобызания. — Вот не ожидал! Вот сюрприз! Ну, да погляди же на меня хорошенько! Такой же красавец, как и был! Такой же душонок и щеголь! Ах ты, господи! Ну, что же ты? Богат? Женат? Я уже женат, как видишь... Это вот моя жена, Луиза, урожденная Ванценбах... лютеранка... А это сын мой, Нафанаил, ученик III класса. Это, Нафаня, друг моего детства! В гимназии вместе учились! 
+ Нафанаил немного подумал и снял шапку. 
+— В гимназии вместе учились! — продолжал тонкий. — Помнишь, как тебя дразнили? Тебя дразнили Геростратом за то, что ты казенную книжку папироской прожег, а меня Эфиальтом за то, что я ябедничать любил. Хо-хо... Детьми были! Не бойся, Нафаня! Подойди к нему поближе... А это моя жена, урожденная Ванценбах... лютеранка. 
+ Нафанаил немного подумал и спрятался за спину отца. 
+— Ну, как живешь, друг? — спросил толстый, восторженно глядя на друга. — Служишь где? Дослужился? 
+— Служу, милый мой! Коллежским асессором уже второй год и Станислава имею. Жалованье плохое... ну, да бог с ним! Жена уроки музыки дает, я портсигары приватно из дерева делаю. Отличные портсигары! По рублю за штуку продаю. Если кто берет десять штук и более, тому, понимаешь, уступка. Пробавляемся кое-как. Служил, знаешь, в департаменте, а теперь сюда переведен столоначальником по тому же ведомству... Здесь буду служить. Ну, а ты как? Небось, уже статский? А? 
+— Нет, милый мой, поднимай повыше, — сказал толстый. — Я уже до тайного дослужился... Две звезды имею. 
+ Тонкий вдруг побледнел, окаменел, но скоро лицо его искривилось во все стороны широчайшей улыбкой; казалось, что от лица и глаз его посыпались искры. Сам он съежился, сгорбился, сузился... Его чемоданы, узлы и картонки съежились, поморщились... Длинный подбородок жены стал еще длиннее; Нафанаил вытянулся во фрунт и застегнул все пуговки своего мундира... 
+— Я, ваше превосходительство... Очень приятно-с! Друг, можно сказать, детства и вдруг вышли в такие вельможи-с! Хи-хи-с. 
+— Ну, полно! — поморщился толстый. — Для чего этот тон? Мы с тобой друзья детства — и к чему тут это чинопочитание! 
+— Помилуйте... Что вы-с... — захихикал тонкий, еще более съеживаясь. — Милостивое внимание вашего превосходительства... вроде как бы живительной влаги... Это вот, ваше превосходительство, сын мой Нафанаил... жена Луиза, лютеранка, некоторым образом... 
+ Толстый хотел было возразить что-то, но на лице у тонкого было написано столько благоговения, сладости и почтительной кислоты, что тайного советника стошнило. Он отвернулся от тонкого и подал ему на прощанье руку. 
  Тонкий пожал три пальца, поклонился всем туловищем и захихикал, как китаец: <<хи-хи-хи>>. Жена улыбнулась. Нафанаил шаркнул ногой и уронил фуражку. Все трое были приятно ошеломлены.
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 2: Sentence structure
 
@@ -175,10 +175,10 @@ When you want to say "I have something" Russins use a special construction: "У 
 When you want to say "I like something" Russins use a special construction: "Мне нравится ...".
 **[Subject: possessive pronoun + verb]**
     Мне нравится. [Subject: pronoun + verb]. (I like)
-    Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)<br>
-    Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)<br>
+    Мне нравится океан. [Subject: pronoun + verb + noun]. (I like the ocean)
+    Мне нравится гулять. [Subject: pronoun + verb + verb]. (I like to walk)
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 3: Present tense
 
@@ -263,7 +263,7 @@ When you want to conjugate a verb just change its ending.
     Когда у тебя (есть - to be; we always skip the verb to be) день рождения? (When is your birthday?)
     Откуда ты (есть - to be; we always skip the verb to be; here is the interesting structure of the sentence: interrogative word + pronoun?)? (When is your birthday?)
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 4: Nouns
 
@@ -328,13 +328,13 @@ As I mentioned before the adjectives and the nouns must agree with each other in
 | neuter: adjective ends -ое |  красив **ое** приведение (beautiful ghost) |
 | plural (all genders): adjective ends -ые |  умн **ые** коты (smart cats) умн **ые** кошки (smart cats) красив **ые** приведения (beautiful ghosts) |
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 5: Местоимения - Pronouns
 
 There are a lot of different pronouns: личные, возвратные, притяжательные, вопросительные, относительные, указательные, определительные, отрицательные, неопределенные. As a beginner, you don't need to know all of them. Right now pay attention only to personal (личные) and possessive (притяжательные) pronouns. Other types of pronouns are not important at the beginning.
 
-#### 1. Личные местоимения - Personal pronouns
+#### 5.1. Личные местоимения - Personal pronouns
 We use personal pronouns only in one case - as a subject of a sentence.
 | Russian | English |
 | -- | -- |
@@ -345,7 +345,7 @@ We use personal pronouns only in one case - as a subject of a sentence.
 |  вы (plural), Вы (singular, formal; always starts from capital letter) | you |
 |  они | they |
 
-#### 2. Притяжательные местоимения - Possessive pronouns
+#### 5.2. Притяжательные местоимения - Possessive pronouns
 The possessive pronouns must agree in gender, number, and case with a modified noun.
 
 | Притяжательные | Личные | Possessive |
@@ -363,7 +363,7 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     Это его машина. - It is his car.
     Это мои деньги. - It is my money.
 
-#### The complete declensions of Russian possessive pronouns
+#### 5.3. The complete declensions of Russian possessive pronouns
 
 #### Мой - My
 
@@ -420,17 +420,17 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 | Instrumental |  вашим |  вашей |  вашими |
 | Prepositional |  вашем |  вашей |  ваших |
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 6: Verbal aspect
 
-1. Each verb has two aspects: perfective and imperfective.
+6.1. Each verb has two aspects: perfective and imperfective.
 
-2. You can find the both forms inside the dictionaries. We use the perfective aspect to express the Perfect "ideas/tenses" in present, past and future. I advise you to learn all forms by heart. It is not necessary to learn the rules how to form them now.
+6.2. You can find the both forms inside the dictionaries. We use the perfective aspect to express the Perfect "ideas/tenses" in present, past and future. I advise you to learn all forms by heart. It is not necessary to learn the rules how to form them now.
 
-3. If you want to form the perfective aspect there are several ways to do it.
+6.3. If you want to form the perfective aspect there are several ways to do it.
 
-3.1. Usually the perfective aspect forms from the imperfective by adding a prefixation. There are several prefixations that you can use for this:
+6.3.1. Usually the perfective aspect forms from the imperfective by adding a prefixation. There are several prefixations that you can use for this:
 
     про-: думать (imperf) > продумать (perf) (to think > have thought)
     по-:  думать (imperf) > подумать (perf) (to think > have thought)
@@ -439,21 +439,21 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     с-: делать (imperf) > сделать (perf) (to do > have done)
     вы-: пить (imperf) > выпить (perf) (to drink > have drunk)
 
-3.2. Sometimes we change the suffix of the imperfective verb to make the perfective.
+6.3.2. Sometimes we change the suffix of the imperfective verb to make the perfective.
 
     отвечать (imperf) > ответить (perf) (to answer > have answered)
 
-3.3. In rare cases we use the different stem.
+6.3.3. In rare cases we use the different stem.
 
     говорить (imperf) > сказать (perf) (to tell/say > have told/said>
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
-## Past tense
+## Lesson 7: Past tense
 
-1. We use the Past tense (прошедщее время) when we talk about an action in the past (Past Simple), an action which was happening at the time of speaking (Past continuous), an action in the past has a connection with the present (Present perfect).
+7.1. We use the Past tense (прошедщее время) when we talk about an action in the past (Past Simple), an action which was happening at the time of speaking (Past continuous), an action in the past has a connection with the present (Present perfect).
 
-2. We form the Past tense by changing the ending of the verb to -л (remember about conjugation! and gender agreement!).
+7.2. We form the Past tense by changing the ending of the verb to -л (remember about conjugation! and gender agreement!).
 
 |  Русский | English |
 | --- | --- |
@@ -464,9 +464,7 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 |  вы ушли | you left |
 |  они ушли | they left |
 
-3. Exception: when infinitive has these endings: -чь, -ти, -нуть We do not use the suffix -л with singular masculine subjects to form the Past tense. Just learn these verbs.
-
-3.1 For example:
+7.3. Exception: when infinitive has these endings: -чь, -ти, -нуть We do not use the suffix -л with singular masculine subjects to form the Past tense. Just learn these verbs.
 
     беречь (i) - я берег (I cared)
     печь (i) - я пёк (I baked)
@@ -482,16 +480,17 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 |  вы (plural) не ушли, Вы (polite, formal; singular) не ушли | you didn't leave |
 |  они не ушли | they didn't leave |
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 8: Future tense
 
-1. We use the Future tense (будущее время) when we talk about a future action (Future Simple).
+8.1. We use the Future tense (будущее время) when we talk about a future action (Future Simple).
 
-2. There are two ways how we can speak about future. First one is quite simple and second needs to introduce additional grammar topic (perfective and imperfective verbs/aspects).
+8.2. There are two ways how we can speak about future. First one is quite simple and second needs to introduce additional grammar topic (perfective and imperfective verbs/aspects).
 
-* 2.1. Easy way to create Future tense: add a verb быть (to be) before a main verb (infinitive). Don't forget about the conjugation of the verb быть.
+8.3. Easy way to create Future tense: add a verb быть (to be) before a main verb (infinitive). Don't forget about the conjugation of the verb быть.
 **быть (to be) + verb (infinitive)**
+
     я буду читать - I will read
     ты будешь читать - you will read
     он/она/оно/Вы (formal) будет читать - he/she/it will read
@@ -499,10 +498,11 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     вы будете читать - you will read
     они будет читать - they will read
 
-    Actually here we use the imperfective form/aspect of the verb.
+Actually here we use the imperfective form/aspect of the verb.
 
-* 2.2. Form the Future with a verb in a perfective form. Remember about the conjugation!
+8.4. Form the Future with a verb in a perfective form. Remember about the conjugation!
 **читать (infinitive) -> perfective forms: прочитать, почитать**
+
     я прочитаю - I will have read / will read
     ты прочитаешь - you will have read / will read
     он/она/оно/Вы (formal) прочитает - he/she/it will have read / will read
@@ -510,7 +510,7 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     вы прочитаете - you will have read / will read
     они прочитают - they will have read / will read
 
-3. To create a negative form just add **не** (not) before the verb.
+8.4. To create a negative form just add **не** (not) before the verb.
 
 | Easy way | With a perfective verb |
 | -- | -- |
@@ -521,24 +521,24 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 |  вы/Вы не будете читать (you/- won't read) |  вы/Вы не прочитаете (you/- won't have read) |
 |  они не будут читать (they won't read) |  они не прочитают (they won't have read) |
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
 ## Lesson 9: Прилагательное - Adjective
 
-#### 1. Сравнительная степень прилагательного - Comparative adjectives
+#### 9.1. Сравнительная степень прилагательного - Comparative adjectives
 
-1.1. We use a comparative adjective to compare a person, object, action with another person, object etc.
+9.1.1. We use a comparative adjective to compare a person, object, action with another person, object etc.
 
-1.2. There are two ways to create a comparative adjective: a simple (простой) and a compound (составной). They are almost equal, so you can use any of these methods.
+9.1.2. There are two ways to create a comparative adjective: a simple (простой) and a compound (составной). They are almost equal, so you can use any of these methods.
 
-1.3. Составной - сompound: it is quite easy to use it. We just add a word (более или менее) before the adjective.
+9.1.3. Составной - сompound: it is quite easy to use it. We just add a word (более или менее) before the adjective.
 
 **более (more) / менее (less) + прилагательное (adjective)**
 
     красивый закат > более красивый закат, менее красивый закат
     большое озеро > более большое озеро, менее большое озеро
 
-1.4. Простой - simple: in this case we add a new ending to a root of the adjective. Actually it is not ending, it is a suffix. We choose a right suffix based on a gender of a noun.<br>
+9.1.4. Простой - simple: in this case we add a new ending to a root of the adjective. Actually it is not ending, it is a suffix. We choose a right suffix based on a gender of a noun.
 
 **прилагательное (adjective) + -ее (f), -ей (m), -е (f), -ше (n)**
 
@@ -548,20 +548,20 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     смешная девушка > смешнее девушка
     большое озеро > больше озеро
 
-#### 2. Превосходная степень прилагательного - Superlative adjectives
+#### 9.2. Превосходная степень прилагательного - Superlative adjectives
 
-2.1. We use a superlative adjective to compare more than two persons, objects, actions etc.
+9.2.1. We use a superlative adjective to compare more than two persons, objects, actions etc.
 
-2.2. There are two ways to create a surerlative adjective: a simple (простой) and a compound (составной). These ways are similar to create the comparative adjectives.
+9.2.2. There are two ways to create a surerlative adjective: a simple (простой) and a compound (составной). These ways are similar to create the comparative adjectives.
 
-2.3. Составной - сompound: the easiest method. We just add a word (самый, наиболее или наименее) before the adjective.
+9.2.3. Составной - сompound: the easiest method. We just add a word (самый, наиболее или наименее) before the adjective.
 
 **самый (most) / наиболее (most) / наименее (least)+ прилагательное (adjective)**
 
     Она самая красивая. - She is the most beautiful woman.
     Наиболее высокое здание в Европе - This is the highest building in Europe.
 
-1.4. Простой - simple: in this case we add a new suffix to a root of the adjective. We should change the ending based on a gender, number and case of a noun.
+9.2.4. Простой - simple: in this case we add a new suffix to a root of the adjective. We should change the ending based on a gender, number and case of a noun.
 
 **прилагательное (adjective) + -ейш- (-айш-) + ending**
 
@@ -570,13 +570,13 @@ The possessive pronouns must agree in gender, number, and case with a modified n
     крепкая веревка > крепчайшая веревка
     смешная девушка > смешнейшая девушка
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
 
-## Lesson 10: Cases
+## Lesson 10: Падежи - Cases
 
-1. We use the cases to show the role and function of the noun in the sentence. The case system exists in Latin, Greek and German. The changing a word in cases and numbers is склонение.
+10.1. We use the cases to show the role and function of the noun in the sentence. The case system exists in Latin, Greek and German. The changing a word in cases and numbers is склонение. Native Russians use a phonetical way to choose the right case. They simply ask the questions to check the case - кого? чего? shows a Genitive case. But this is a useless information for you, because you can't understand it from the phonetics. It is just impossible. When you become familiar with Russian and after some practice you will hear the difference, but now there is only one way - learn and practice.
 
-* There are six cases:
+* **There are six cases:**
 * Именительный падеж (Nominative case)
 * Родительный падеж (Genitive case)
 * Дательный падеж (Dative case)
@@ -584,32 +584,67 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 * Творительный падеж (Instrumental case)
 * Предложный падеж (Prepositional case)
 
-**1. Именительный:** it is the basic, initial (dictionary) form of a word.<br>
+**10.2. Именительный - Nominative:** it is the basic, initial (dictionary) form of a word.
 
-    **Девушка** вошла в комнату. (The girl entered into a room.)
-    < Here the word девушка is in именительном падеже.
+10.2.1. We use it in definitions
+10.2.2. We use it to indicate a subject
+10.2.3. With это, вот sentences
+10.2.4. In possessive constructions
 
-    **Ночь** холодная. (The night is cold).
+    **Мы** из России. We are from Russia.
+    **Девушка** вошла в комнату. The girl entered into a room.
+    **Ночь** холодная. The night is cold.
+    Это мой **дом**. This is my house.
+    Вот моя **машина**. Here is my car.
 
-**2.Родительный:** shows that something belongs or refers to something (similar to "of" in English).
+**10.3. Родительный - Genitive:** shows that something belongs or refers to something (similar to "of" in English). It is the most frequently used case. We use Genitive case with or without prepositions.
 
-    Эта машина **друга**. (This is a friend's car.)
+10.3.1. We use it to show an absense of something. We can do it as a simple negative sentence with or with prepositions без - without and кроме - except.
 
-[Table of contents](#contents-href)
+    У меня нет **самолета**. I don't have an airplane.
+    Я пью кофе без **сахара**. I drink coffee withou sugar. 
+    Вы можете идти, кроме **Александра**. - You may leave except Aleksandr.
 
-## Lesson 11: Questions
+10.3.2. With the preposition у (demonstrates possession)
 
-1. There are three ways how we make questions in Russian.
+    У Тамары есть **книга**. Tamara has a book.
 
-* 1.1. Just use the question intonation.
-* 1.2. Tag questions: add to the end of a sentence не правда ли, да
-* 1.3. The questions with interrogative words: place the interrogative word before a normal sentence
+10.3.3. To indicate an owner
+
+    Эта машина **друга**. This is a friend's car.
+
+10.3.4. We use it to show relation between one object with another
+
+    Это расписание **автобусов**. This is a bus schedule.
+
+10.3.5. We use it after words of the quantity or amount: больше - more; меньше - less; мало - few, little; много - many, much;
+немало, немного, несколько, сколько, столько, чуть-чуть; килограмм, фунт, бутылка
+
+    В библиотеке немного **людей**. There are not so many people at the library.
+    Я купил бутылку **вина**. I bought a bottle of wine.
+
+10.3.6. We use it to indicate part of a whole (a fraction) after these words: полтора, треть
+
+    Используйте полчашки **сахара**. Use a half cup of sugar.
+    Я оставил ей треть **торта**. I left her a one third of a cake.
+
+10.3.7. To indicate the exact number
+
+[Table of contents](#Grammar_table_of_contents_0)
+
+## Lesson 11: Вопросы - Questions
+
+11.1. There are three ways how we make questions in Russian.
+
+11.1.1. Just use the question intonation.
+11.1.2. Tag questions: add to the end of a sentence не правда ли, да
+11.1.3. The questions with interrogative words: place the interrogative word before a normal sentence
 
 | Sentence | Questions |
 | --- | --- |
 |  Я читаю (I read) |  Я читаю? (Do I read?) Ты читаешь? (Do you read?) Ты читаешь, не правда ли? (You read, do you?) Что ты читаешь? (What do you read?) Какую книгу ты будешь читать? (Which book are you going to read?) Когда ты читаешь? (When do you read?) Сколько книг ты читал в прошлом году? (How many books did you read last year?) |
 
-2. The list of interrogative words:
+11.2. The list of interrogative words:
 * Что - What
 * Какой - Which
 * Когда - When
@@ -618,4 +653,4 @@ The possessive pronouns must agree in gender, number, and case with a modified n
 * Сколько - How many/much
 * Каким образом - How
 
-[Table of contents](#contents-href)
+[Table of contents](#Grammar_table_of_contents_0)
